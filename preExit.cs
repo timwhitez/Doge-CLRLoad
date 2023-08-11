@@ -88,8 +88,8 @@ namespace test
             }
         // original code with Environment.Exit(0) here
         Console.WriteLine("About to call Environment.Exit");
-	    Environment.Exit(0);
-	    Console.WriteLine("Survived exit");
+	    //Environment.Exit(0);
+	    //Console.WriteLine("Survived exit");
     }
 }
 }
